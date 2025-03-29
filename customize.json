@@ -1,7 +1,7 @@
 {
   "greeting": "你好啊！",
   "name": "陈莉仪！",
-  "greetingText": "准备好打开你的云礼物了吗？！",
+  "greetingText": "我会在每个有意义的时刻远隔山海与你共存～",
   "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
   "imagePath": "img/lydia2.png",
   "text1": "今天是你21岁的生日啊啊啊!!! :D",
@@ -17,8 +17,8 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "生日快乐啊!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "outroText": "祝你每天都能活成自己喜欢的样子",
+  "replayText": "愿你想要的都拥有，得不到的都释怀，愿你每一岁都奔走在自己的热爱里",
   "outroSmiley": ":)",
   "music": "./music/bgMusic.mp3",
   "fonts": [
